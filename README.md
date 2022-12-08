@@ -36,3 +36,5 @@ ATCGGTCGAGCGTGT
 ## Sample Output
 
 > MVYIADKQHVASREAYGHMFKVCA
+
+Source: [RNA Splicing](http://rosalind.info/problems/splc/)
